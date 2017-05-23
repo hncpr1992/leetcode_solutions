@@ -1,5 +1,5 @@
 # leetcode 
-  -- # 18
+  -- # 24
 
 ## Easy
 ### Array
@@ -12,7 +12,6 @@
 122.Best Time to Buy and Sell Stock II -> dynamic programming -> <br>
 27.Remove Element -> Two pointers, front and rear, swap<br>
 268.Missing Number -> the sum of numbers　[0,1,2,...,n] is a constant, so the missing one can be calculated<br>
-
 169.Majority Element -> Hashtable | Boyer–Moore majority vote algorithm<br>
 283.Move Zeroes -> 27.Remove Element<br>
 243.Shortest Word Distance -> Move forward and record the words position to calculate distance<br>
@@ -22,5 +21,11 @@
 26.Remove Duplicates from Sorted Array -> move and swap, two pointers | 27.Remove Element, 283.Move Zeroes<br>
 189.Rotate Array<br>
 186.Reverse Words in a String II<br>
-
 414.Third Maximum Number -> A slide window that capture the first second and third<br>
+
+### Dynamic Programming
+121.Best Time to Buy and Sell Stock -> get today's maxprofit based on yesterday's<br>
+122.Best Time to Buy and Sell Stock II<br>
+53.Maximum Subarray<br>
+198.House Robber -> build a recurrence relation
+70.Climbing Stairs -> build a recurrence relation <br>
