@@ -22,3 +22,5 @@
 26.Remove Duplicates from Sorted Array -> move and swap, two pointers | 27.Remove Element, 283.Move Zeroes<br>
 189.Rotate Array<br>
 186.Reverse Words in a String II<br>
+
+414.Third Maximum Number -> A slide window that capture the first second and third<br>
