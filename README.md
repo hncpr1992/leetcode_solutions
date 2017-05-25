@@ -1,5 +1,5 @@
 # leetcode 
-  -- # 24
+  -- # 31
 
 ## Easy
 ### Array
@@ -29,3 +29,22 @@
 53.Maximum Subarray<br>
 198.House Robber -> build a recurrence relation
 70.Climbing Stairs -> build a recurrence relation <br>
+
+256.Paint House -> Use previous steps' costs as base and get new min costs<br>
+276.Paint Fence -> Same or not Same situations<br>
+303.Range Sum Query - Immutable -> Cumsum in a list to get sum of a slice<br>
+
+### Linked List
+206.Reverse Linked List -> keep the code in mind<br>
+141.Linked List Cycle -> fast and slow pointers<br>
+83.Remove Duplicates from Sorted List -> Use the sorted condition <br>
+203.Remove Linked List Elements -> take care of the situation that head.val == val<br>
+
+
+
+
+
+
+
+
+
