@@ -1,5 +1,5 @@
 # leetcode 
-  -- # 31
+  -- # 40
 
 ## Easy
 ### Array
@@ -40,11 +40,22 @@
 83.Remove Duplicates from Sorted List -> Use the sorted condition <br>
 203.Remove Linked List Elements -> take care of the situation that head.val == val<br>
 
+237.Delete Node in a Linked List -> copy next and remove next<br>
+234.Palindrome Linked List -> two poiinters with half reversing<br>
+160.Intersection of Two Linked Lists -> scan two lists in a loop until find first common node<br>
+21.Merge Two Sorted Lists -> merge one node by another O(m+n)<br>
+
+### Hash table
+349.Intersection of Two Arrays -> build a hash table and check existence<br>
+350.Intersection of Two Arrays II -> hash table but keep the amount of numbers<br>
+
+### Two pointers
+125.Valid Palindrome -> skip punctuations and other<br>
+345.Reverse Vowels of a String -> reverse a list with hash table as vowels<br>
+344.Reverse String -> just reverse with two pointers<br>
 
 
-
-
-
+  
 
 
 
