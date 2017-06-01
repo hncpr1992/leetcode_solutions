@@ -1,5 +1,5 @@
 # leetcode 
-  -- # 40
+  -- # 44
 
 ## Easy
 ### Array
@@ -48,6 +48,16 @@
 ### Hash table
 349.Intersection of Two Arrays -> build a hash table and check existence<br>
 350.Intersection of Two Arrays II -> hash table but keep the amount of numbers<br>
+
+
+438.Find All Anagrams in a String -> slide window and form hash table each step<br>
+205.Isomorphic Strings　-> build hash table along the way<br>
+359.Logger Rate Limiter -> build hash table along the way<br>
+204.Count Primes -> Sieve of Eratosthenes<br>
+
+
+
+
 
 ### Two pointers
 125.Valid Palindrome -> skip punctuations and other<br>
