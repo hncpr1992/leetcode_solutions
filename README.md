@@ -1,5 +1,5 @@
 # leetcode 
-  -- # 44
+  -- # 54
 
 ## Easy
 ### Array
@@ -39,7 +39,6 @@
 141.Linked List Cycle -> fast and slow pointers<br>
 83.Remove Duplicates from Sorted List -> Use the sorted condition <br>
 203.Remove Linked List Elements -> take care of the situation that head.val == val<br>
-
 237.Delete Node in a Linked List -> copy next and remove next<br>
 234.Palindrome Linked List -> two poiinters with half reversing<br>
 160.Intersection of Two Linked Lists -> scan two lists in a loop until find first common node<br>
@@ -48,16 +47,22 @@
 ### Hash table
 349.Intersection of Two Arrays -> build a hash table and check existence<br>
 350.Intersection of Two Arrays II -> hash table but keep the amount of numbers<br>
-
-
 438.Find All Anagrams in a String -> slide window and form hash table each step<br>
 205.Isomorphic Strings　-> build hash table along the way<br>
 359.Logger Rate Limiter -> build hash table along the way<br>
 204.Count Primes -> Sieve of Eratosthenes<br>
 
 
-
-
+409.Longest Palindrome -> do not iterate to find, learn how to calculate the result, get the pattern<br>
+447.Number of Boomerangs -> see the pattern and calculate, build a hash table to store the distance<br>
+389.Find the Difference -> trade space for time<br>
+246.Strobogrammatic Number -> build a rule and check<br>
+242.Valid Anagram -> 389.Find the Difference<br>
+136.Single Number -> hash | bit manipulation<br>
+290.Word Pattern -> 205.Isomorphic Strings<br>
+170.Two Sum III - Data structure design -> Two sum<br>
+266.Palindrome Permutation -> 409.Longest Palindrome<br>
+202.Happy Number -> build along the way | two pointers (cycle)<br>
 
 ### Two pointers
 125.Valid Palindrome -> skip punctuations and other<br>
