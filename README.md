@@ -69,6 +69,15 @@
 345.Reverse Vowels of a String -> reverse a list with hash table as vowels<br>
 344.Reverse String -> just reverse with two pointers<br>
 
+### Stack
+155.Min Stack -> remember to use a minStack array to keep the minimum for each push
+20.Valid Parentheses -> use a stack to match the input parenthesis
+***496.Next Greater Element I -> Use a stack to keep the decreasing sequence***
+232.Implement Queue using Stacks ->
+225. Implement Stack using Queues ->
+
+
+
 
   
 
