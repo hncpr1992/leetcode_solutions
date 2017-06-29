@@ -1,5 +1,5 @@
 # leetcode 
-  -- # 54
+  -- # 59
 
 ## Easy
 ### Array
@@ -70,11 +70,34 @@
 344.Reverse String -> just reverse with two pointers<br>
 
 ### Stack
-155.Min Stack -> remember to use a minStack array to keep the minimum for each push
-20.Valid Parentheses -> use a stack to match the input parenthesis
-***496.Next Greater Element I -> Use a stack to keep the decreasing sequence***
-232.Implement Queue using Stacks ->
-225. Implement Stack using Queues ->
+155.Min Stack -> remember to use a minStack array to keep the minimum for each push<br>
+20.Valid Parentheses -> use a stack to match the input parenthesis<br>
+***496.Next Greater Element I -> Use a stack to keep the decreasing sequence***<br>
+232.Implement Queue using Stacks -><br>
+225. Implement Stack using Queues -><br>
+
+### String
+344.Reverse String -> two pointers
+13.Roman to Integer -> if left number is smaller than the right number, subtract the left one from the total
+293.Flip Game -> slide window to flip
+520.Detect Capital -> follow the rules and compare three situations
+
+### Tree
+226.Invert Binary Tree -> recurse to flip left and right 
+270.Closest Binary Search Tree Value -> make your code simple
+***235.Lowest Common Ancestor of a Binary Search Tree -> Compare the two nodes' values with root, if at two side, return root, else go left or right***
+112.Path Sum -> take the sum at last recursion as argument in the next recursion and manipulate
+257.Binary Tree Paths -> dfs
+111.Minimum Depth of Binary Tree -> dfs -> 257
+
+108.Convert Sorted Array to Binary Search Tree ->
+
+
+
+
+
+
+107.Binary Tree Level Order Traversal II ->
 
 
 
