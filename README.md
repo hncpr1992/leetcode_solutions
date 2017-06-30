@@ -1,5 +1,5 @@
 # leetcode 
-  -- # 74
+  -- # 78
 
 ## Easy
 ### Array
@@ -94,6 +94,12 @@
 104.Maximum Depth of Binary Tree -> Same as the 111.Minimum Depth of Binary Tree, but use max<br>
 404.Sum of Left Leaves -> memorize the code as a sample<br>
 110.Balanced Binary Tree -> memorize the code as a sample | use some value as signals<br>
+
+### Math
+258.Add Digits -> use // and %<br>
+171.Excel Sheet Column Number -> calculate like a number<br>
+172.Factorial Trailing Zeroes -> Find how many 5 we have n/5 + n/25 + n/125 + n/625 + n/3125+...<br>
+202.Happy Number -> when there is a cycle, use two pointers<br>
 
 
 
