@@ -1,5 +1,5 @@
 # leetcode 
-  -- # 59
+  -- # 74
 
 ## Easy
 ### Array
@@ -77,27 +77,23 @@
 225. Implement Stack using Queues -><br>
 
 ### String
-344.Reverse String -> two pointers
-13.Roman to Integer -> if left number is smaller than the right number, subtract the left one from the total
-293.Flip Game -> slide window to flip
-520.Detect Capital -> follow the rules and compare three situations
+344.Reverse String -> two pointers<br>
+13.Roman to Integer -> if left number is smaller than the right number, subtract the left one from the total<br>
+293.Flip Game -> slide window to flip<br>
+520.Detect Capital -> follow the rules and compare three situations<br>
 
 ### Tree
-226.Invert Binary Tree -> recurse to flip left and right 
-270.Closest Binary Search Tree Value -> make your code simple
-***235.Lowest Common Ancestor of a Binary Search Tree -> Compare the two nodes' values with root, if at two side, return root, else go left or right***
-112.Path Sum -> take the sum at last recursion as argument in the next recursion and manipulate
-257.Binary Tree Paths -> dfs
-111.Minimum Depth of Binary Tree -> dfs -> 257
-
-108.Convert Sorted Array to Binary Search Tree ->
-
-
-
-
-
-
-107.Binary Tree Level Order Traversal II ->
+226.Invert Binary Tree -> recurse to flip left and right <br>
+270.Closest Binary Search Tree Value -> make your code simple<br>
+***235.Lowest Common Ancestor of a Binary Search Tree -> Compare the two nodes' values with root, if at two side, return root, else go left or right***<br>
+112.Path Sum -> take the sum at last recursion as argument in the next recursion and manipulate<br>
+257.Binary Tree Paths -> dfs<br>
+111.Minimum Depth of Binary Tree -> dfs -> 257<br>
+100.Same Tree -> compare left , right structure and the root value in recursion<br>
+101.Symmetric Tree -> Same as the 100 Same Tree, but compare the left with the right<br>
+104.Maximum Depth of Binary Tree -> Same as the 111.Minimum Depth of Binary Tree, but use max<br>
+404.Sum of Left Leaves -> memorize the code as a sample<br>
+110.Balanced Binary Tree -> memorize the code as a sample | use some value as signals<br>
 
 
 
