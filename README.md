@@ -1,5 +1,11 @@
 # leetcode 
-  -- # 78
+  -- # 85
+  
+## Tips
+1. Care about the special cases<br>
+2. Think in diverse directions<br>
+3. <br>
+
 
 ## Easy
 ### Array
@@ -100,7 +106,14 @@
 171.Excel Sheet Column Number -> calculate like a number<br>
 172.Factorial Trailing Zeroes -> Find how many 5 we have n/5 + n/25 + n/125 + n/625 + n/3125+...<br>
 202.Happy Number -> when there is a cycle, use two pointers<br>
-
+7.Reverse Integer -> get number by //10 and reverse, set condition for overflow<br>
+9.Palindrome Number -> Use % 10 and // 10 in flexible way<br>
+453.Minimum Moves to Equal Array Elements -> transform the issue from add to subtract<br>
+69.Sqrt(x) -> binary search<br>
+204.Count Primes -> memorize the mothod <br>
+168.Excel Sheet Column Title -> reduce 1-10 to 0-9<br>
+441.Arranging Coins -> you can add number, but you can also subtract number<br>
+231. Power of Two -> same as 441.Arranging Coins<br>
 
 
 
