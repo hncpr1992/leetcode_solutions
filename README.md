@@ -1,5 +1,5 @@
 # leetcode 
-  -- # 85
+  -- # 88
   
 ## Tips
 1. Care about the special cases<br>
@@ -100,6 +100,7 @@
 104.Maximum Depth of Binary Tree -> Same as the 111.Minimum Depth of Binary Tree, but use max<br>
 404.Sum of Left Leaves -> memorize the code as a sample<br>
 110.Balanced Binary Tree -> memorize the code as a sample | use some value as signals<br>
+108. Convert Sorted Array to Binary Search Tree -> memorize the code <br>
 
 ### Math
 258.Add Digits -> use // and %<br>
@@ -114,6 +115,12 @@
 168.Excel Sheet Column Title -> reduce 1-10 to 0-9<br>
 441.Arranging Coins -> you can add number, but you can also subtract number<br>
 231. Power of Two -> same as 441.Arranging Coins<br>
+
+### DFS
+339.Nested List Weight Sum -> DFS with recursion on nested list<br>
+
+## BFS
+107.Binary Tree Level Order Traversal II -> typical BFS algo<br>
 
 
 
