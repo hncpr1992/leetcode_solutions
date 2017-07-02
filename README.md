@@ -119,7 +119,7 @@
 ### DFS
 339.Nested List Weight Sum -> DFS with recursion on nested list<br>
 
-## BFS
+### BFS
 107.Binary Tree Level Order Traversal II -> typical BFS algo<br>
 
 
