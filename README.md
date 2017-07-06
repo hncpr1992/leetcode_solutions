@@ -126,14 +126,18 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 0
+-- # 5
 
-2.Add Two Numbers -> Go through two list until empty | add == 1 or 0
-6.ZigZag Conversion -> make sure the period of the string character collection
-3.Longest Substring Without Repeating Characters -> two pointers and dynamic hash table
-388.Longest Absolute File Path ->
-12.Integer to Roman
-5.Longest Palindromic Substring
+2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
+6.ZigZag Conversion -> make sure the period of the string character collection<br>
+3.Longest Substring Without Repeating Characters -> two pointers and dynamic hash table<br>
+388.Longest Absolute File Path -> hash table + loop <br>
+12.Integer to Roman -> follow the rule, go from large number to small number<br>
+***5.Longest Palindromic Substring ->***
+
+
+
+
 
 
 
