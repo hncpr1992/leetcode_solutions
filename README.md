@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 5
+-- # 8
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -135,7 +135,11 @@ Ordered by frequency<br>
 12.Integer to Roman -> follow the rule, go from large number to small number<br>
 ***5.Longest Palindromic Substring ->***
 
-
+540.Single Element in a Sorted Array -> logn indicate binary search, use odd or even amount as the criteria<br>
+238.Product of Array Except Self -> two pointers from left to right with an output array<br>
+328.Odd Even Linked List -> two pointers slow and fast, do not make mistake at exchange link list nodes<br>
+***338. Counting Bits***<br>
+***148. Sort List***<br>
 
 
 
