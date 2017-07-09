@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 8
+-- # 10
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -140,6 +140,12 @@ Ordered by frequency<br>
 328.Odd Even Linked List -> two pointers slow and fast, do not make mistake at exchange link list nodes<br>
 ***338. Counting Bits***<br>
 ***148. Sort List***<br>
+
+***139.Word Break***<br>
+***137. Single Number II -> bit manipulation | hash table***<br>
+17.Letter Combinations of a Phone Number -> iterate one digit by another<br>
+***50. Pow(x, n)***<br>
+***200. Number of Islands***<br>
 
 
 
