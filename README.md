@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 10
+-- # 15
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -147,8 +147,11 @@ Ordered by frequency<br>
 ***50. Pow(x, n)***<br>
 ***200. Number of Islands***<br>
 
-
-
+319.Bulb Switcher -> brain teaser (the factorial come as pairs except for n^2) so just get the square root<br>
+153. Find Minimum in Rotated Sorted Array -> binary search<br>
+49. Group Anagrams -> sort the string characters and use hash table to store them<br>
+22. Generate Parentheses -> backtracking<br>
+150. Evaluate Reverse Polish Notation -> stack<br>
 
 
 
