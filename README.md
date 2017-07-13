@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 15
+-- # 17
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -153,6 +153,11 @@ Ordered by frequency<br>
 22. Generate Parentheses -> backtracking<br>
 150. Evaluate Reverse Polish Notation -> stack<br>
 
+223. Rectangle Area -> reframe the construction of the overlap area (right left, left right, bottom top and top bottom)<br>
+419. Battleships in a Board -> count the head of the ship<br>
+***152. Maximum Product Subarray -> ***<br>
+***179. Largest Number***<br>
+***535. Encode and Decode TinyURL***<br>
 
 
 
