@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 17
+-- # 19
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -155,9 +155,10 @@ Ordered by frequency<br>
 
 223. Rectangle Area -> reframe the construction of the overlap area (right left, left right, bottom top and top bottom)<br>
 419. Battleships in a Board -> count the head of the ship<br>
-***152. Maximum Product Subarray -> ***<br>
-***179. Largest Number***<br>
-***535. Encode and Decode TinyURL***<br>
+152. Maximum Product Subarray -> record max and min during the DP, swap max and min when nums[i] < 0 <br>
+179. Largest Number -> sort two number by comparing their combination str(x)+str(y) and str(y)+str(x)<br>
+
+***96. Unique Binary Search Trees -> ***
 
 
 
