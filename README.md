@@ -148,23 +148,23 @@ Ordered by frequency<br>
 ***200. Number of Islands***<br>
 
 319.Bulb Switcher -> brain teaser (the factorial come as pairs except for n^2) so just get the square root<br>
-153. Find Minimum in Rotated Sorted Array -> binary search<br>
-49. Group Anagrams -> sort the string characters and use hash table to store them<br>
-22. Generate Parentheses -> backtracking<br>
-150. Evaluate Reverse Polish Notation -> stack<br>
+153.Find Minimum in Rotated Sorted Array -> binary search<br>
+49.Group Anagrams -> sort the string characters and use hash table to store them<br>
+22.Generate Parentheses -> backtracking<br>
+150.Evaluate Reverse Polish Notation -> stack<br>
 
-223. Rectangle Area -> reframe the construction of the overlap area (right left, left right, bottom top and top bottom)<br>
-419. Battleships in a Board -> count the head of the ship<br>
-152. Maximum Product Subarray -> record max and min during the DP, swap max and min when nums[i] < 0 <br>
-179. Largest Number -> sort two number by comparing their combination str(x)+str(y) and str(y)+str(x)<br>
+223.Rectangle Area -> reframe the construction of the overlap area (right left, left right, bottom top and top bottom)<br>
+419.Battleships in a Board -> count the head of the ship<br>
+152.Maximum Product Subarray -> record max and min during the DP, swap max and min when nums[i] < 0 <br>
+179.Largest Number -> sort two number by comparing their combination str(x)+str(y) and str(y)+str(x)<br>
 
-96. Unique Binary Search Trees -> DP + find the relation btw G(n) and G(0) to G(n-1) with the F(i,n)<br>
-56. Merge Intervals -> sort the intervals first and then compare the start of intervals
-173. Binary Search Tree Iterator -> DFS inorder but not O(h) complexity | stack plus pointer to push right to the stack whiel evaluating the left O(h)<br>
-48. Rotate Image -> flip along diagnal and y axis<br>
-228. Summary Ranges -> go through the list and decide ajacent intergers interval<br>
+96.Unique Binary Search Trees -> DP + find the relation btw G(n) and G(0) to G(n-1) with the F(i,n)<br>
+56.Merge Intervals -> sort the intervals first and then compare the start of intervals
+173.Binary Search Tree Iterator -> DFS inorder but not O(h) complexity | stack plus pointer to push right to the stack whiel evaluating the left O(h)<br>
+48.Rotate Image -> flip along diagnal and y axis<br>
+228.Summary Ranges -> go through the list and decide ajacent intergers interval<br>
 
-33. Search in Rotated Sorted Array ->　<br>
+33.Search in Rotated Sorted Array ->　<br>
 
 
 
