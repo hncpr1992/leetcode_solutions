@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 19
+-- # 24
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -158,8 +158,13 @@ Ordered by frequency<br>
 152. Maximum Product Subarray -> record max and min during the DP, swap max and min when nums[i] < 0 <br>
 179. Largest Number -> sort two number by comparing their combination str(x)+str(y) and str(y)+str(x)<br>
 
-***96. Unique Binary Search Trees -> ***
+96. Unique Binary Search Trees -> DP + find the relation btw G(n) and G(0) to G(n-1) with the F(i,n)<br>
+56. Merge Intervals -> sort the intervals first and then compare the start of intervals
+173. Binary Search Tree Iterator -> DFS inorder but not O(h) complexity | stack plus pointer to push right to the stack whiel evaluating the left O(h)<br>
+48. Rotate Image -> flip along diagnal and y axis<br>
+228. Summary Ranges -> go through the list and decide ajacent intergers interval<br>
 
+33. Search in Rotated Sorted Array ->　<br>
 
 
 
