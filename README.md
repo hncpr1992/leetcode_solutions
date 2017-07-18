@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 27
+-- # 33
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -168,8 +168,17 @@ Ordered by frequency<br>
 46.Permutations -> backtracking<br>
 36.Valid Sudoku -> Dynamic hash table in 2D<br>
 
-
-
+54.Spiral Matrix -> dynamic hash table and set the boundary for turning (need to imrpove) <br>
+***147. Insertion Sort List***<br>
+287.Find the Duplicate Number -> pointer lead to the duplicate method<br>
+142.Linked List Cycle II -> 2(a+b) = a+b+nk -> a+b = nk -> a = nk-b<br>
+***89. Gray Code ->***<br>
+***260.Single Number III*** -><br>
+187.Repeated DNA Sequences -> dynamic hash table | bitmanipulation <br>
+220.Contains Duplicate III -> use bucket to separate the values' ranges and maintain a sliding window <br>
+***79.Word Search***<br>
+347.Top K Frequent Elements -> hash table + heap sort<br>
+-----
 
 
   
