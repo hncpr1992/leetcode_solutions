@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 24
+-- # 27
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -164,7 +164,11 @@ Ordered by frequency<br>
 48.Rotate Image -> flip along diagnal and y axis<br>
 228.Summary Ranges -> go through the list and decide ajacent intergers interval<br>
 
-33.Search in Rotated Sorted Array ->　<br>
+33.Search in Rotated Sorted Array ->　similar method like 153.Find Minimum in Rotated Sorted Array but need to compare target <br>
+46.Permutations -> backtracking<br>
+36.Valid Sudoku -> Dynamic hash table in 2D<br>
+
+
 
 
 
