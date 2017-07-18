@@ -173,7 +173,7 @@ Ordered by frequency<br>
 287.Find the Duplicate Number -> pointer lead to the duplicate method<br>
 142.Linked List Cycle II -> 2(a+b) = a+b+nk -> a+b = nk -> a = nk-b<br>
 ***89. Gray Code ->*** <br>
-***260.Single Number III*** -> <br>
+***260.Single Number III -> *** <br>
 187.Repeated DNA Sequences -> dynamic hash table | bitmanipulation <br>
 220.Contains Duplicate III -> use bucket to separate the values' ranges and maintain a sliding window <br>
 ***79.Word Search*** <br>
