@@ -179,7 +179,8 @@ Ordered by frequency<br>
 ***79.Word Search*** <br>
 347.Top K Frequent Elements -> hash table + heap sort<br>
 
-289.Game of Life -> 
+***289.Game of Life*** -> <br>
+306.Additive Number
 
   
 
