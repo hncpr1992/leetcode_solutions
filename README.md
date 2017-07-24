@@ -126,26 +126,26 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 33
+-- # 37
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
 3.Longest Substring Without Repeating Characters -> two pointers and dynamic hash table<br>
 388.Longest Absolute File Path -> hash table + loop <br>
 12.Integer to Roman -> follow the rule, go from large number to small number<br>
-***5.Longest Palindromic Substring ->***
+5.Longest Palindromic Substring -> DP, build a matrix to maintain the states of symmetrics | Manacher's algorithm<br>
 
 540.Single Element in a Sorted Array -> logn indicate binary search, use odd or even amount as the criteria<br>
 238.Product of Array Except Self -> two pointers from left to right with an output array<br>
 328.Odd Even Linked List -> two pointers slow and fast, do not make mistake at exchange link list nodes<br>
-***338. Counting Bits***<br>
+338. Counting Bits -> DP, find the relation between 2^n + i where i <= 2^n and 2^n + i <= num<br>
 ***148. Sort List***<br>
 
-***139.Word Break***<br>
-***137. Single Number II -> bit manipulation | hash table***<br>
+139.Word Break -> DP, <br>
+137.Single Number II -> bit manipulation | hash table<br>
 17.Letter Combinations of a Phone Number -> iterate one digit by another<br>
 ***50. Pow(x, n)***<br>
-***200. Number of Islands***<br>
+200.Number of Islands -> DFS, step on to the island and mark it | similar to 419.Battleships in a Board <br>
 
 319.Bulb Switcher -> brain teaser (the factorial come as pairs except for n^2) so just get the square root<br>
 153.Find Minimum in Rotated Sorted Array -> binary search<br>
