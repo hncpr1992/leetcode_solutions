@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 37
+-- # 40
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -180,7 +180,11 @@ Ordered by frequency<br>
 347.Top K Frequent Elements -> hash table + heap sort<br>
 
 ***289.Game of Life*** -> <br>
-306.Additive Number
+306.Additive Number -> this problem is determined by the choice of first two numbers (loop), them iterate to end to check conditions<br>
+229.Majority Element II -> Boyer–Moore majority vote algorithm | not related to order of list<br>
+240.Search a 2D Matrix II -> use the sorted attribute of the matrix
+
+
 
   
 
