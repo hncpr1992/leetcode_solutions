@@ -186,7 +186,9 @@ Ordered by frequency<br>
 
 222. Count Complete Tree Nodes -> dfs, set condition to decide whether it is a complete binary tree in the recursion<nr>
 230. Kth Smallest Element in a BST -> inorder traversal + a kind of pattern for meeting a certain condition in traversal<br>
-
+ ---
+34. Search for a Range -> binary search and extend the boundary at the last step<br>
+74. Search a 2D Matrix -> two times binary search<br>
 
 
 
