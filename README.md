@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 45
+-- # 47
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -184,14 +184,14 @@ Ordered by frequency<br>
 229.Majority Element II -> Boyer–Moore majority vote algorithm | not related to order of list<br>
 240.Search a 2D Matrix II -> use the sorted attribute of the matrix<br>
 
-222. Count Complete Tree Nodes -> dfs, set condition to decide whether it is a complete binary tree in the recursion<nr>
-230. Kth Smallest Element in a BST -> inorder traversal + a kind of pattern for meeting a certain condition in traversal<br>
-34. Search for a Range -> binary search and extend the boundary at the last step<br>
-74. Search a 2D Matrix -> two times binary search<br>
+222.Count Complete Tree Nodes -> dfs, set condition to decide whether it is a complete binary tree in the recursion<nr>
+230.Kth Smallest Element in a BST -> inorder traversal + a kind of pattern for meeting a certain condition in traversal<br>
+34.Search for a Range -> binary search and extend the boundary at the last step<br>
+74.Search a 2D Matrix -> two times binary search<br>
 
+116.Populating Next Right Pointers in Each Node -> dfs<br>
+105. Construct Binary Tree from Preorder and Inorder Traversal -> dfs<br>
 ---
-
-
 
 
   
