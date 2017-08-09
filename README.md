@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 47
+-- # 50
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -192,10 +192,11 @@ Ordered by frequency<br>
 116.Populating Next Right Pointers in Each Node -> dfs<br>
 105. Construct Binary Tree from Preorder and Inorder Traversal -> dfs<br>
 
----
-
-
+114.Flatten Binary Tree to Linked List -> dfs, move left to right, keep track of last node at left<br>
+109.Convert Sorted List to Binary Search Tree -> dfs, use slow fast pointer to devide the linklist<br>
+199.Binary Tree Right Side View -> BFS, create a list of queues to store the nodes in each level and keep the right most <br>
   
+---
 
 
 
