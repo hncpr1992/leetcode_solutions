@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 56
+-- # 61
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -203,10 +203,13 @@ Ordered by frequency<br>
 91. Decode Ways -> DP, decide the last two steps, whether they are consistent with the condition<br>
 322. Coin Change -> DP<br>
 
+79.Word Search -> backtracking, start from each position of board and decide whether to go next<br>
+39.Combination Sum -> Backtracking<br>
+78.Subsets -> Backtracking<br>
+77.Combinations -> Backtracking<br>
+93.Restore IP Addresses -> Backtracking<br>
+
 ---
-
-
-
 
 
 
