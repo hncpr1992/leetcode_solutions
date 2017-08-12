@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 51
+-- # 56
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -197,4 +197,23 @@ Ordered by frequency<br>
 199.Binary Tree Right Side View -> BFS, create a list of queues to store the nodes in each level and keep the right most <br>
 103.Binary Tree Zigzag Level Order Traversal -> bfs, reverse the level <br>
 
+279.Perfect Squares -> DP, at each step, go through all choices(optimize with only consider squares addition)<br>
+62.Unique Paths -> DP, subproblem is m*n, dependecy is P(i-1,j) + P(i,j-1) = P(i,j)<br>
+64. Minimum Path Sum -> similar to 62.Unique Paths, DP, get min of left and top<br>
+91. Decode Ways -> DP, decide the last two steps, whether they are consistent with the condition<br>
+322. Coin Change -> DP<br>
+
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
