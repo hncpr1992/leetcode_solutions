@@ -209,8 +209,10 @@ Ordered by frequency<br>
 77.Combinations -> Backtracking<br>
 93.Restore IP Addresses -> Backtracking<br>
 
----
+120.Triangle -> DP<br>
+73.Set Matrix Zeroes -> modify first row and col to store 0<br>
 
+---
 
 
 
