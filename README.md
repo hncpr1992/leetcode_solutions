@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 61
+-- # 65
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -211,6 +211,9 @@ Ordered by frequency<br>
 
 120.Triangle -> DP<br>
 73.Set Matrix Zeroes -> modify first row and col to store 0<br>
+
+88.Merge Sorted Array -> merge from end<br>
+617.Merge Two Binary Trees - > DFS<br>
 
 ---
 
