@@ -126,7 +126,7 @@
 
 ## Medium
 Ordered by frequency<br>
--- # 69
+-- # 70
 
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
@@ -219,10 +219,9 @@ Ordered by frequency<br>
 653.Two Sum IV - Input is a BST -> DFS with hash table<br>
 645.Set Mismatch -> index minus method<br>
 643.Maximum Average Subarray I -> do not calculate agian<br>
+637.Average of Levels in Binary Tree -> DFS<br>
 
 ---
-
-
 
 
 
