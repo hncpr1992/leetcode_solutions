@@ -1,5 +1,5 @@
 # leetcode 
-  -- # 88
+  -- # 158
   
 ## Tips
 1. Care about the special cases<br>
@@ -122,12 +122,6 @@
 ### BFS
 107.Binary Tree Level Order Traversal II -> typical BFS algo<br>
 
-
-
-## Medium
-Ordered by frequency<br>
--- # 70
-
 2.Add Two Numbers -> Go through two list until empty | add == 1 or 0 <br>
 6.ZigZag Conversion -> make sure the period of the string character collection<br>
 3.Longest Substring Without Repeating Characters -> two pointers and dynamic hash table<br>
@@ -223,7 +217,7 @@ Ordered by frequency<br>
 
 ---
 
-
+## Twitter
 
 
 
