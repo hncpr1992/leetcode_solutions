@@ -215,10 +215,12 @@
 643.Maximum Average Subarray I -> do not calculate agian<br>
 637.Average of Levels in Binary Tree -> DFS<br>
 
----
-
 ## Twitter
+161.One Edit Distance -> know the concept of edit difference<br>
+60.Permutation Sequence -> math<br>
+433.Minimum Genetic Mutation -> Backtracking<br>
+380.Insert Delete GetRandom O(1) -> Hash Table<br>
+251.Flatten 2D Vector -> eleminate empty list at hasNext with a while loop<br>
 
-
-
+---
 
