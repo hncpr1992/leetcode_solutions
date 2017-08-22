@@ -229,8 +229,11 @@
 378.Kth Smallest Element in a Sorted Matrix -> Binary Search | low or high will move to the kth smallest and then the other bound reaches to be the same<br>
 43.Multiply Strings -> implement the manual multiply<br>
 
+42.Trapping Rain Water -> stack to keep a list of descending bars<br>
+
 ---
 
+296.Best Meeting Point -> 
 
 
 
