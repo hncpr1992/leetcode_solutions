@@ -231,9 +231,20 @@
 
 42.Trapping Rain Water -> stack to keep a list of descending bars<br>
 
+296.Best Meeting Point -> <br>
+
 ---
 
-296.Best Meeting Point -> 
+581.Shortest Unsorted Continuous Subarray -> sort and compare<br>
+654.Maximum Binary Tree -> DFS<br>
+525. Contiguous Array -> Hash Table | 1 and 0 represent up and down to accumulate<br>
+209. Minimum Size Subarray Sum -> 蠕虫法<br>
+
+
+
+
+
+
 
 
 
