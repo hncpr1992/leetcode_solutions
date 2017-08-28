@@ -239,7 +239,15 @@
 654.Maximum Binary Tree -> DFS<br>
 525.Contiguous Array -> Hash Table | 1 and 0 represent up and down to accumulate<br>
 209.Minimum Size Subarray Sum -> 蠕虫法<br>
-647.Palindromic Substrings -> 矩阵法+DP
+647.Palindromic Substrings -> 矩阵法+DP<br>
+
+500.Keyboard Row -> Hashtable<br>
+557.Reverse Words in a String III -> string problem<br>
+575.Distribute Candies -> hashtable<br>
+566.Reshape the Matrix -> array<br>
+412. Fizz Buzz -> N/A<br>
+
+
 
 
 
