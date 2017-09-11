@@ -245,8 +245,10 @@
 557.Reverse Words in a String III -> string problem<br>
 575.Distribute Candies -> hashtable<br>
 566.Reshape the Matrix -> array<br>
-412. Fizz Buzz -> N/A<br>
+412.Fizz Buzz -> N/A<br>
 
+674.Longest Continuous Increasing Subsequence -> two pointers
+671.Second Minimum Node In a Binary Tree -> dfs
 
 
 
